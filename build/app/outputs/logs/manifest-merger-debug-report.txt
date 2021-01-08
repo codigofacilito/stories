@@ -1,0 +1,540 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from [:video_player] /Users/marines/Documents/Flutter/proyectos/appflutter/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_database] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_storage] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:photo_manager] /Users/marines/Documents/Flutter/proyectos/appflutter/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/5e44f643e5d1e68aa83236c46ded5dc3/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/450a90c2fdd0688b2b2f3882465a721c/firebase-analytics-ktx-18.0.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2551154c7d5ac78c1819adbdfd5480f4/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/7f9a5aa048bf2b32f76f5346013a7f7a/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/489a283cae0544a4d7b8d521c8556e81/firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/591867a4a47959b8fe6b53097d958759/firebase-database-collection-17.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/63333801825fa8fbd9c7151e28fb5ce4/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-core:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/07cc324ab72e31076d9549ebc618373e/firebase-core-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/dd47fca0e14640edf26ad1cae04e5f27/firebase-analytics-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/b005be18d05d80759c5f10670a6605df/firebase-installations-interop-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2ee2dcfdb11c844725d50a2e939976fd/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/613448feb7fd59f42d839284f5f0e1f6/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/f71f7293e75852f4e6c80f0e82137fca/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/0148bf4b67d90ab3ed3379b83b344796/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/8f19eb6d58d9ca18ebe809281a1f8fd5/play-services-measurement-base-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/58e0cbec31665e53271999d64561b4f3/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/52aa99b1dafefeb265871aa9c67401a0/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1ca55ecf5ee6da93139e05ffccf7ee09/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2a043d3f5fd22167e021cf30806b5be9/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/77b21b9d8f1dd2618c7e8ee5d418ed1b/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/4f64b6374cddf69b980a40e143d9e9ad/core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/f333fff089a65883db4369ab04866b77/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/be0a3d96e69806a17dd3ec618a610bb9/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/f4b054b692c01d60cfa1b25a7210754e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1b78ec6a795b94d014c7b05a65b93d27/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2dcf679aa1864a5f60f2da220706b425/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/92d66a8a818f8339807e81b13dd23ea6/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ef73027a590ba40c40628f81889bbfe1/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/961accf4f692e098bca192a2e46a1ed3/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a9bb833f638dbc7f5cd8bc7f2b260f34/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/51f161b525b4fd1920f8d7a53d6b6ea8/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1db922c1d196d14487179d2aa1e2900e/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/abee5b37dba13f092deef02b35959943/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/7ec00a50b8c8eec8bc982dc94cdd72df/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/46fdb86a59eb89177aeb33e4ee64f741/exoplayer-hls-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/01b00d89c7321bf3d07fe8e8530a4003/exoplayer-dash-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/ee2b3d7ae09d40b06f515534d4fc52c1/exoplayer-smoothstreaming-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/a135b690462b9d3889acca7ab45f7cf2/exoplayer-core-2.12.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2fd171e233d17166fe1de29dda2809b8/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/15a45fc9279cd414e7bc73393fa60ccf/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/8b41debddbd50aa307dba0f241fef08b/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/72d6bbd525d4b8987cf3b0b66d2e0555/jetified-exoplayer-extractor-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/f45dcc5f899a9046f26dd2b037338953/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/19d8a55139bcda2c0b8b23872428fdfe/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6dadf666a149784310abb41a35b094dd/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/be6b4ccfcf1177b7ea22061483d846df/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/3c4344c97194b317881817238bfc5913/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/742ed95bf955082c4e04b9881ddf75f5/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/d3eb63bf853c789a48d650b747031fff/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/03e26697d0a6e1eb3912dab2156c8fb7/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a44cec94aaed465518ad794d0c43f508/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:1:1-47:12
+		INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:1:1-47:12
+		INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:8:5-46:19
+MERGED from [:firebase_database] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/450a90c2fdd0688b2b2f3882465a721c/firebase-analytics-ktx-18.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/450a90c2fdd0688b2b2f3882465a721c/firebase-analytics-ktx-18.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/7f9a5aa048bf2b32f76f5346013a7f7a/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/7f9a5aa048bf2b32f76f5346013a7f7a/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/489a283cae0544a4d7b8d521c8556e81/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/489a283cae0544a4d7b8d521c8556e81/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/63333801825fa8fbd9c7151e28fb5ce4/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/63333801825fa8fbd9c7151e28fb5ce4/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-core:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/07cc324ab72e31076d9549ebc618373e/firebase-core-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/07cc324ab72e31076d9549ebc618373e/firebase-core-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/dd47fca0e14640edf26ad1cae04e5f27/firebase-analytics-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/dd47fca0e14640edf26ad1cae04e5f27/firebase-analytics-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2ee2dcfdb11c844725d50a2e939976fd/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2ee2dcfdb11c844725d50a2e939976fd/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/613448feb7fd59f42d839284f5f0e1f6/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/613448feb7fd59f42d839284f5f0e1f6/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/f71f7293e75852f4e6c80f0e82137fca/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/f71f7293e75852f4e6c80f0e82137fca/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/8f19eb6d58d9ca18ebe809281a1f8fd5/play-services-measurement-base-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/8f19eb6d58d9ca18ebe809281a1f8fd5/play-services-measurement-base-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/58e0cbec31665e53271999d64561b4f3/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/58e0cbec31665e53271999d64561b4f3/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/52aa99b1dafefeb265871aa9c67401a0/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/52aa99b1dafefeb265871aa9c67401a0/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1ca55ecf5ee6da93139e05ffccf7ee09/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1ca55ecf5ee6da93139e05ffccf7ee09/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a9bb833f638dbc7f5cd8bc7f2b260f34/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a9bb833f638dbc7f5cd8bc7f2b260f34/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/8b41debddbd50aa307dba0f241fef08b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/8b41debddbd50aa307dba0f241fef08b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/be6b4ccfcf1177b7ea22061483d846df/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/be6b4ccfcf1177b7ea22061483d846df/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a9bb833f638dbc7f5cd8bc7f2b260f34/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:9:9-57
+activity#com.marinesmg.appflutter.MainActivity
+ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:12:9-40:20
+	android:launchMode
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:13:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:23:13-26:17
+	android:resource
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:25:15-52
+	android:name
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:24:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:32:13-35:17
+	android:resource
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:34:15-61
+	android:name
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:33:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:38:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:43:9-45:33
+	android:value
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:45:13-30
+	android:name
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml:44:13-44
+uses-sdk
+INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml
+MERGED from [:video_player] /Users/marines/Documents/Flutter/proyectos/appflutter/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /Users/marines/Documents/Flutter/proyectos/appflutter/build/video_player/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:photo_manager] /Users/marines/Documents/Flutter/proyectos/appflutter/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:photo_manager] /Users/marines/Documents/Flutter/proyectos/appflutter/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/5e44f643e5d1e68aa83236c46ded5dc3/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/5e44f643e5d1e68aa83236c46ded5dc3/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/450a90c2fdd0688b2b2f3882465a721c/firebase-analytics-ktx-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/450a90c2fdd0688b2b2f3882465a721c/firebase-analytics-ktx-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2551154c7d5ac78c1819adbdfd5480f4/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2551154c7d5ac78c1819adbdfd5480f4/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/7f9a5aa048bf2b32f76f5346013a7f7a/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/7f9a5aa048bf2b32f76f5346013a7f7a/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/489a283cae0544a4d7b8d521c8556e81/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/489a283cae0544a4d7b8d521c8556e81/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/591867a4a47959b8fe6b53097d958759/firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/591867a4a47959b8fe6b53097d958759/firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/63333801825fa8fbd9c7151e28fb5ce4/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/63333801825fa8fbd9c7151e28fb5ce4/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/07cc324ab72e31076d9549ebc618373e/firebase-core-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/07cc324ab72e31076d9549ebc618373e/firebase-core-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/dd47fca0e14640edf26ad1cae04e5f27/firebase-analytics-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/dd47fca0e14640edf26ad1cae04e5f27/firebase-analytics-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/b005be18d05d80759c5f10670a6605df/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/b005be18d05d80759c5f10670a6605df/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2ee2dcfdb11c844725d50a2e939976fd/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2ee2dcfdb11c844725d50a2e939976fd/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/613448feb7fd59f42d839284f5f0e1f6/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/613448feb7fd59f42d839284f5f0e1f6/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/f71f7293e75852f4e6c80f0e82137fca/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/f71f7293e75852f4e6c80f0e82137fca/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/0148bf4b67d90ab3ed3379b83b344796/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/0148bf4b67d90ab3ed3379b83b344796/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/8f19eb6d58d9ca18ebe809281a1f8fd5/play-services-measurement-base-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/8f19eb6d58d9ca18ebe809281a1f8fd5/play-services-measurement-base-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/58e0cbec31665e53271999d64561b4f3/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/58e0cbec31665e53271999d64561b4f3/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/52aa99b1dafefeb265871aa9c67401a0/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/52aa99b1dafefeb265871aa9c67401a0/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1ca55ecf5ee6da93139e05ffccf7ee09/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1ca55ecf5ee6da93139e05ffccf7ee09/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2a043d3f5fd22167e021cf30806b5be9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2a043d3f5fd22167e021cf30806b5be9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/77b21b9d8f1dd2618c7e8ee5d418ed1b/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/77b21b9d8f1dd2618c7e8ee5d418ed1b/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/4f64b6374cddf69b980a40e143d9e9ad/core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/4f64b6374cddf69b980a40e143d9e9ad/core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/f333fff089a65883db4369ab04866b77/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/f333fff089a65883db4369ab04866b77/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/be0a3d96e69806a17dd3ec618a610bb9/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/be0a3d96e69806a17dd3ec618a610bb9/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/f4b054b692c01d60cfa1b25a7210754e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/f4b054b692c01d60cfa1b25a7210754e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1b78ec6a795b94d014c7b05a65b93d27/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1b78ec6a795b94d014c7b05a65b93d27/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2dcf679aa1864a5f60f2da220706b425/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2dcf679aa1864a5f60f2da220706b425/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/92d66a8a818f8339807e81b13dd23ea6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/92d66a8a818f8339807e81b13dd23ea6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ef73027a590ba40c40628f81889bbfe1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ef73027a590ba40c40628f81889bbfe1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/961accf4f692e098bca192a2e46a1ed3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/961accf4f692e098bca192a2e46a1ed3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a9bb833f638dbc7f5cd8bc7f2b260f34/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a9bb833f638dbc7f5cd8bc7f2b260f34/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/51f161b525b4fd1920f8d7a53d6b6ea8/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/51f161b525b4fd1920f8d7a53d6b6ea8/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1db922c1d196d14487179d2aa1e2900e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1db922c1d196d14487179d2aa1e2900e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/abee5b37dba13f092deef02b35959943/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/abee5b37dba13f092deef02b35959943/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/7ec00a50b8c8eec8bc982dc94cdd72df/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/7ec00a50b8c8eec8bc982dc94cdd72df/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/46fdb86a59eb89177aeb33e4ee64f741/exoplayer-hls-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/46fdb86a59eb89177aeb33e4ee64f741/exoplayer-hls-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/01b00d89c7321bf3d07fe8e8530a4003/exoplayer-dash-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/01b00d89c7321bf3d07fe8e8530a4003/exoplayer-dash-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/ee2b3d7ae09d40b06f515534d4fc52c1/exoplayer-smoothstreaming-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/ee2b3d7ae09d40b06f515534d4fc52c1/exoplayer-smoothstreaming-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/a135b690462b9d3889acca7ab45f7cf2/exoplayer-core-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/a135b690462b9d3889acca7ab45f7cf2/exoplayer-core-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2fd171e233d17166fe1de29dda2809b8/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/2fd171e233d17166fe1de29dda2809b8/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/15a45fc9279cd414e7bc73393fa60ccf/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/15a45fc9279cd414e7bc73393fa60ccf/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/8b41debddbd50aa307dba0f241fef08b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/8b41debddbd50aa307dba0f241fef08b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/72d6bbd525d4b8987cf3b0b66d2e0555/jetified-exoplayer-extractor-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/72d6bbd525d4b8987cf3b0b66d2e0555/jetified-exoplayer-extractor-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/f45dcc5f899a9046f26dd2b037338953/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/f45dcc5f899a9046f26dd2b037338953/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/19d8a55139bcda2c0b8b23872428fdfe/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/19d8a55139bcda2c0b8b23872428fdfe/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6dadf666a149784310abb41a35b094dd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6dadf666a149784310abb41a35b094dd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/be6b4ccfcf1177b7ea22061483d846df/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/be6b4ccfcf1177b7ea22061483d846df/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/3c4344c97194b317881817238bfc5913/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/3c4344c97194b317881817238bfc5913/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/742ed95bf955082c4e04b9881ddf75f5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/742ed95bf955082c4e04b9881ddf75f5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/d3eb63bf853c789a48d650b747031fff/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/d3eb63bf853c789a48d650b747031fff/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/03e26697d0a6e1eb3912dab2156c8fb7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/03e26697d0a6e1eb3912dab2156c8fb7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a44cec94aaed465518ad794d0c43f508/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a44cec94aaed465518ad794d0c43f508/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/0148bf4b67d90ab3ed3379b83b344796/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/0148bf4b67d90ab3ed3379b83b344796/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/marines/Documents/Flutter/proyectos/appflutter/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_database] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/450a90c2fdd0688b2b2f3882465a721c/firebase-analytics-ktx-18.0.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/450a90c2fdd0688b2b2f3882465a721c/firebase-analytics-ktx-18.0.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/450a90c2fdd0688b2b2f3882465a721c/firebase-analytics-ktx-18.0.0/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_database] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_database] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_database] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_database] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-127
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/marines/Documents/Flutter/proyectos/appflutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:photo_manager] /Users/marines/Documents/Flutter/proyectos/appflutter/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:photo_manager] /Users/marines/Documents/Flutter/proyectos/appflutter/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:photo_manager] /Users/marines/Documents/Flutter/proyectos/appflutter/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from [:photo_manager] /Users/marines/Documents/Flutter/proyectos/appflutter/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_MEDIA_LOCATION
+ADDED from [:photo_manager] /Users/marines/Documents/Flutter/proyectos/appflutter/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from [:photo_manager] /Users/marines/Documents/Flutter/proyectos/appflutter/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-77
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/450a90c2fdd0688b2b2f3882465a721c/firebase-analytics-ktx-18.0.0/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/450a90c2fdd0688b2b2f3882465a721c/firebase-analytics-ktx-18.0.0/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/450a90c2fdd0688b2b2f3882465a721c/firebase-analytics-ktx-18.0.0/AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/6b84f74df5a260102e837f1d85e33841/firebase-common-ktx-19.5.0/AndroidManifest.xml:16:17-113
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/0148bf4b67d90ab3ed3379b83b344796/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/0148bf4b67d90ab3ed3379b83b344796/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/a135b690462b9d3889acca7ab45f7cf2/exoplayer-core-2.12.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/a135b690462b9d3889acca7ab45f7cf2/exoplayer-core-2.12.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/f45dcc5f899a9046f26dd2b037338953/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/f45dcc5f899a9046f26dd2b037338953/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.6.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/acd544ee0ad0d5dc7e0e0d98452c08b0/firebase-database-19.6.0/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.2.1] /Users/marines/.gradle/caches/transforms-2/files-2.1/c6471b34f5c4b185478ebd87c4df562f/firebase-storage-19.2.1/AndroidManifest.xml:34:17-107
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/63333801825fa8fbd9c7151e28fb5ce4/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/63333801825fa8fbd9c7151e28fb5ce4/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/63333801825fa8fbd9c7151e28fb5ce4/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/63333801825fa8fbd9c7151e28fb5ce4/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/0148bf4b67d90ab3ed3379b83b344796/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/0148bf4b67d90ab3ed3379b83b344796/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/a1427d643374604029ba240672e36c13/play-services-measurement-api-18.0.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/marines/.gradle/caches/transforms-2/files-2.1/2c1b778f09d17c9a8a92258ee62b2bd6/firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1384d2fb17050eafaee1273d4361e967/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/807b305be27beeba27a14200844a8d96/play-services-measurement-impl-18.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/ca08b22c284dcee426e12d80c7ff2a13/play-services-measurement-18.0.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1ca55ecf5ee6da93139e05ffccf7ee09/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1ca55ecf5ee6da93139e05ffccf7ee09/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/marines/.gradle/caches/transforms-2/files-2.1/1ca55ecf5ee6da93139e05ffccf7ee09/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
